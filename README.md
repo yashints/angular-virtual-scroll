@@ -1,5 +1,7 @@
 # VirtualScroll
 
+This project contains the code I used in my blog post to explain how to use Virtual Scroll, a new feature in Angular V7.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.1.
 
 ## Development server
